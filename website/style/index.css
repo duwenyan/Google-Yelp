@@ -1,0 +1,61 @@
+html, body {
+    padding: 0px;
+    font-family: "Arial";
+    height: 100%;
+    width: 100%;
+}
+
+main {
+    height: 100%;
+    display: flex;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+}
+
+input {
+	font-size: 20px;
+    width: 250px;
+}
+
+#region_info a{
+    font-size: 18px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    border-radius: 2px;
+    padding: 4px;
+    background-color: forestgreen;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 90%;
+}
+
+button {
+	font-size: 18px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    border-radius: 2px;
+    padding: 4px;
+    background-color: forestgreen;
+    color: white;
+}
+
+.left {
+    float: right;
+	padding-top: 10px;
+    padding-left: 5px;
+	padding-right: 5px;
+    width: 500px;
+    height: 100%;
+    overflow: scroll;
+}
+
+.right {
+    float: left;
+	padding-left: 5px;
+	padding-right: 5px;
+    width: 100%;
+    height: 100%;
+}

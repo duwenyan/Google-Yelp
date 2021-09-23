@@ -1,0 +1,35 @@
+.bar {
+  fill: #ffc25c;
+}
+
+.bar:hover {
+  fill: #f2cfa3;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 20px;
+  height: 600px;
+}
+
+.line {
+    fill: none;
+    stroke: #ffab00;
+    stroke-width: 3;
+}
+  
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.dot {
+    fill: #ffab00;
+    stroke: #fff;
+}
+  
+.focus circle {
+  fill: none;
+  stroke: steelblue;
+}
