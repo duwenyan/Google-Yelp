@@ -2,7 +2,7 @@
 
 **Authors:**
 
-**Team9: Wenyan Du, Jieyan Chen, Boxuan Li, Miao Sun, Ruiying Wang**
+**Team 9: Wenyan Du, Jieyan Chen, Boxuan Li, Miao Sun, Ruiying Wang**
 
 ## 1 Introduction
 
