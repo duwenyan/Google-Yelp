@@ -18,7 +18,7 @@ The figure demonstrate the main page of the project. In the left panel, there ar
 
 2) View Business statistics (click on “Las Vegas" Icon to show new page)
 
-3) Places Searches
+3) Place Searches
 
 4) Quick searches of restaurants, hotels or groceries
 
